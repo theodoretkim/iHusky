@@ -1,20 +1,17 @@
 # iHusky
 
-Our project intends to bring the UW community a more convenient and accessible way of getting around campus.
+Our project intends to help attorneys supporting Afghan Refugees to access resources they need in an efficient manner.
+Our project will help attorneys to streamline immigration processes and help Afghan refugees successfully settle in the United States.
 
-We are building a mobile version of the Husky Card for:
-* Payment in Public Transportation
-* Building Access in UW Facilities
-* Payment in UW Facilities 
-* And more.
+Contributors:
+Angela Y
+<ayun6@uw.edu>
 
-By adding Husky IDs with Apple Wallet, UW students and staff no longer need to spend time fumbling for the physical ID.
-It will also help minimize the need for plastic cards, which can toll both a student’s finances and planet earth.
-We aim to build upon the UW’s Sustainability Action Plan.
+Bhavana Gottepu
+<bhavana4@uw.edu>
 
-Technologies we intend to use to engineer our idea are:
-* GitHub (version control)
-* Figma (wireframe)
-* Apple Wallet API (pass)
-* NFC (protocol to exchange data)
-* JSON (format to exchange data)
+Ifrah Mohamed
+<ifrah@uw.edu>
+
+Ted Kim
+<tedtkim@uw.edu>
